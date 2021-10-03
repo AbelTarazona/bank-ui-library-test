@@ -17,6 +17,7 @@
 
 # Setup
 ## Latest releases 🛠
+- [v1.0.1](https://github.com/AbelTarazona/bank-ui-library-test/tree/v1.0.1)
 - [v1.0.0](https://github.com/AbelTarazona/bank-ui-library-test/tree/v1.0.0)
 
 ### 1. Provide the gradle dependency
