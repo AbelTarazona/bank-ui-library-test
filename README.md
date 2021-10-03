@@ -13,6 +13,7 @@
 
 ### Preview 🚀
 ## Screenshots 🎉
+![Image](DEV/github/screenshot.png)
 
 # Setup
 ## Latest releases 🛠
