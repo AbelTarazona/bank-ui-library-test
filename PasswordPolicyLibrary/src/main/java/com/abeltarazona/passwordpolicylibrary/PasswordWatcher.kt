@@ -47,16 +47,16 @@ class PasswordWatcher  : TextWatcher {
         when (password.length) {
             in 0..7 -> {
                 if (lowerUpperCase.value == 1 || number.value == 1 || specialChar.value == 1 || minimumLength.value == 1 || hasNotAccentMark.value == 1) {
-                    strengthColor.value = R.color.weak
+                    strengthColor.value = R.color.passwordLibraryWeak
                     strengthLevel.value = StrengthLevel.WEAK
                 }
             }
             in 8..Int.MAX_VALUE -> {
                 if (lowerUpperCase.value == 1 && number.value == 1 && specialChar.value == 1 && minimumLength.value == 1 && hasNotAccentMark.value == 1) {
-                    strengthColor.value = R.color.strong
+                    strengthColor.value = R.color.passwordLibraryStrong
                     strengthLevel.value = StrengthLevel.STRONG
                 } else {
-                    strengthColor.value = R.color.weak
+                    strengthColor.value = R.color.passwordLibraryWeak
                     strengthLevel.value = StrengthLevel.WEAK
                 }
             }

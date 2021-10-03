@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="darkGray">#484848</color>
+    <color name="passwordLibraryDarkGray">#484848</color>
     <color name="progressPolicyBackground">#ECEDED</color>
-    <color name="gray">#999999</color>
-    <color name="weak">#EB0046</color>
-    <color name="strong">#059B3C</color>
+    <color name="passwordLibraryGray">#999999</color>
+    <color name="passwordLibraryWeak">#EB0046</color>
+    <color name="passwordLibraryStrong">#059B3C</color>
     <color name="duskBlue">#2F4A9F</color>
 </resources>
