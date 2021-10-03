@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="password_policy_title_alert_message">Aún no ingresas una contraseña</string>
+    <string name="password_policy_low_upper_case">Al menos una letra en Mayúscula y minúscula</string>
+    <string name="password_policy_accent_mark_case">Sin tildes ni caracteres acentuados</string>
+    <string name="password_policy_number_case">Al menos un número</string>
+    <string name="password_policy_special_character_case">Al menos un carácter especial</string>
+    <string name="password_policy_minimum_length_case">8 a 20 caracteres (sin espacios en blanco)</string>
+    <string name="password_policy_alert_message_weak">¡Ojo! Tu clave aún no es muy segura</string>
+    <string name="password_policy_alert_message_strong">¡Muy bien! Tu clave es altamente segura</string>
+
+    <string name="tooltip_special_characters">Solo se permiten los caracteres &lt;br /> + # $ = / _ * ? @ - &quot; % ^ &amp; ( ) : , ; . !</string>
+
+</resources>

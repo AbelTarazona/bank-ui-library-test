@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="gigantFontSize">32sp</dimen>
+    <dimen name="extraLargeFontSize">24sp</dimen>
+    <dimen name="largeFontSize">21sp</dimen>
+    <dimen name="bigFontSize">18sp</dimen>
+    <dimen name="semibigFontSize">19sp</dimen>
+    <dimen name="defaultFontSize">16sp</dimen>
+    <dimen name="mediumFontSize">14sp</dimen>
+    <dimen name="smallFontSize">12sp</dimen>
+    <dimen name="smallestFontSize">10sp</dimen>
+
+    <dimen name="distance_1_1">1dp</dimen>
+    <dimen name="distance_2_1">2dp</dimen>
+    <dimen name="distance_3_1">3dp</dimen>
+
+    <dimen name="distance_3_2">6dp</dimen>
+    <dimen name="distance_3_3">9dp</dimen>
+
+    <dimen name="distance_4_1">4dp</dimen>
+    <dimen name="distance_4_2">8dp</dimen>
+    <dimen name="distance_4_3">12dp</dimen>
+    <dimen name="distance_4_4">16dp</dimen>
+    <dimen name="distance_4_5">23dp</dimen>
+    <dimen name="distance_4_6">24dp</dimen>
+    <dimen name="distance_4_7">28dp</dimen>
+    <dimen name="distance_4_8">32dp</dimen>
+    <dimen name="distance_4_9">36dp</dimen>
+    <dimen name="distance_4_11">44dp</dimen>
+    <dimen name="distance_4_13">52dp</dimen>
+    <dimen name="distance_4_14">56dp</dimen>
+    <dimen name="distance_4_15">60dp</dimen>
+    <dimen name="distance_4_16">64dp</dimen>
+    <dimen name="distance_4_17">68dp</dimen>
+
+    <dimen name="distance_5_1">5dp</dimen>
+    <dimen name="distance_5_3">15dp</dimen>
+    <dimen name="distance_5_5">25dp</dimen>
+    <dimen name="distance_5_7">35dp</dimen>
+    <dimen name="distance_5_9">45dp</dimen>
+    <dimen name="distance_5_15">75dp</dimen>
+    <dimen name="distance_5_17">85dp</dimen>
+
+    <dimen name="distance_7_1">7dp</dimen>
+    <dimen name="distance_7_2">14dp</dimen>
+    <dimen name="distance_7_3">21dp</dimen>
+    <dimen name="distance_7_6">42dp</dimen>
+
+    <dimen name="distance_9_2">18dp</dimen>
+    <dimen name="distance_9_3">27dp</dimen>
+    <dimen name="distance_9_5">45dp</dimen>
+    <dimen name="distance_9_6">54dp</dimen>
+    <dimen name="distance_9_12">108dp</dimen>
+
+    <dimen name="distance_10_1">10dp</dimen>
+    <dimen name="distance_10_2">20dp</dimen>
+    <dimen name="distance_10_3">30dp</dimen>
+    <dimen name="distance_10_4">40dp</dimen>
+    <dimen name="distance_10_5">50dp</dimen>
+    <dimen name="distance_10_6">60dp</dimen>
+    <dimen name="distance_10_7">70dp</dimen>
+    <dimen name="distance_10_8">80dp</dimen>
+    <dimen name="distance_10_10">100dp</dimen>
+    <dimen name="distance_10_15">150dp</dimen>
+
+    <dimen name="distance_11_1">11dp</dimen>
+    <dimen name="distance_11_2">22dp</dimen>
+    <dimen name="distance_11_3">33dp</dimen>
+    <dimen name="distance_11_4">44dp</dimen>
+    <dimen name="distance_11_5">55dp</dimen>
+
+    <dimen name="distance_13_1">13dp</dimen>
+    <dimen name="distance_13_2">26dp</dimen>
+
+    <dimen name="distance_19_2">38dp</dimen>
+    <dimen name="distance_19_3">57dp</dimen>
+
+    <dimen name="distance_17_1">17dp</dimen>
+
+    <dimen name="distance_20_10">200dp</dimen>
+
+    <dimen name="distance_23_2">46dp</dimen>
+    <dimen name="distance_23_4">92dp</dimen>
+
+    <dimen name="distance_29_2">58dp</dimen>
+
+</resources>
